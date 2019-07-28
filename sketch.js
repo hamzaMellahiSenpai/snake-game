@@ -191,7 +191,3 @@
 			speedY = 0
 		}
 	}
-
-
-let canvas = document.querySelector('canvas');
-document.querySelector('#terminal .window').appendChild(canvas[0]);
